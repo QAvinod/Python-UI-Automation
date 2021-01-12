@@ -1,7 +1,7 @@
 # Ignored
 *.pyc
-hpro automation/config.py
+Config/config.py
 .idea/workspace.xml
+.idea/Python-UI-Automation.iml
 logs/ui_automation.log
-screenshots
-Practice
+*.png
